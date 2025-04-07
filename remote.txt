@@ -1,0 +1,3 @@
+git remote -v
+origin  https://github.com/tuojaakkola/TestRepository.git (fetch)
+origin  https://github.com/tuojaakkola/TestRepository.git (push)
